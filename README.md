@@ -1,2 +1,2 @@
-# my-infra-dev
-Terraform code by Terraform
+# This is dev Terraform repo is for infra
+Last modified by: Aleks :)
